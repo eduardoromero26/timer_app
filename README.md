@@ -1,4 +1,4 @@
-# Timer Ap´p
+# Timer App
 
 A new Flutter project.
 
